@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-const BASE_URL = `http://localhost:5000`;
+// const BASE_URL = `http://localhost:5000`;
+const BASE_URL = `https://sneaker-store-backend.herokuapp.com`;
 
 const signup = async (user) => {
   try {
