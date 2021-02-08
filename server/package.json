@@ -8,8 +8,7 @@
     "npm": "7.5.2"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ryan Yegor Giorgia Neil",
   "license": "ISC",
