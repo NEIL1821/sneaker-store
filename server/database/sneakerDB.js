@@ -1,5 +1,5 @@
 const { ObjectId } = require('mongodb');
-const Sneaker = require('../models/sneaker');
+const Sneaker = require('../models/Sneaker');
 
 class sneakerMethods {
   async get(id) {
